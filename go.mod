@@ -1,3 +1,3 @@
-module github.com/pebbe/zmq4
+module github.com/SewanDevs/zmq4
 
 go 1.16
